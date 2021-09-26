@@ -1,30 +1,27 @@
 [{
-  "pregunta" :"Cuando los saiyans con cola miran directamente a la Luna se transforman en mono gigante. Ahora bien, también es posible crear una pequeña luna capaz de igualar el efecto ¿Cuantos zenos necesita un saiyan para transformarse en Ozaru?",
-  "respuestas_malas": ["1.700","1.800","9000","17 millones"],
-  "respuesta": "17 millones"
+  "pregunta" :"A los saiyans la comida les puede: pueden ingerir cantidades abrumadoras de alimentos y su estómago parece no tener fin. Pero ¿qué comen los namekianos?",
+  "respuestas_malas": ["Lechuga Azul","Rana con antenas","Pipas","Su raza no come"],
+  "respuesta": "Su raza no come"
 },
   {
-    "pregunta" :"¿Cuántos juegos ha desarrollado Ark System Works Basados en Dragón Ball?",
-    "respuestas_malas": ["Kriby","Ninguno","Xenoverse","Super Sonic Warriors"],
-    "respuesta": "Super Sonic Warriors"
-  },{
-  "pregunta" :"Cuando los saiyans con cola miran directamente a la Luna se transforman en mono gigante. Ahora bien, también es posible crear una pequeña luna capaz de igualar el efecto ¿Cuantos zenos necesita un saiyan para transformarse en Ozaru?",
-  "respuestas_malas": ["1.700","1.800","9000","17 millones"],
-  "respuesta": "17 millones"
-},
+    "pregunta" :"A los saiyans la comida les puede: pueden ingerir cantidades abrumadoras de alimentos y su estómago parece no tener fin. Pero ¿qué comen los namekianos?",
+    "respuestas_malas": ["Lechuga Azul","Rana con antenas","Pipas","Su raza no come"],
+    "respuesta": "Su raza no come"
+  },
   {
-    "pregunta" :"¿Cuántos juegos ha desarrollado Ark System Works Basados en Dragón Ball?",
-    "respuestas_malas": ["Kriby","Ninguno","Xenoverse","Super Sonic Warriors"],
-    "respuesta": "Super Sonic Warriors"
-  },{
-  "pregunta" :"Cuando los saiyans con cola miran directamente a la Luna se transforman en mono gigante. Ahora bien, también es posible crear una pequeña luna capaz de igualar el efecto ¿Cuantos zenos necesita un saiyan para transformarse en Ozaru?",
-  "respuestas_malas": ["1.700","1.800","9000","17 millones"],
-  "respuesta": "17 millones"
-},
+    "pregunta" :"A los saiyans la comida les puede: pueden ingerir cantidades abrumadoras de alimentos y su estómago parece no tener fin. Pero ¿qué comen los namekianos?",
+    "respuestas_malas": ["Lechuga Azul","Rana con antenas","Pipas","Su raza no come"],
+    "respuesta": "Su raza no come"
+  },
   {
-    "pregunta" :"¿Cuántos juegos ha desarrollado Ark System Works Basados en Dragón Ball?",
-    "respuestas_malas": ["Kriby","Ninguno","Xenoverse","Super Sonic Warriors"],
-    "respuesta": "Super Sonic Warriors"
+    "pregunta" :"A los saiyans la comida les puede: pueden ingerir cantidades abrumadoras de alimentos y su estómago parece no tener fin. Pero ¿qué comen los namekianos?",
+    "respuestas_malas": ["Lechuga Azul","Rana con antenas","Pipas","Su raza no come"],
+    "respuesta": "Su raza no come"
+  },
+  {
+    "pregunta" :"A los saiyans la comida les puede: pueden ingerir cantidades abrumadoras de alimentos y su estómago parece no tener fin. Pero ¿qué comen los namekianos?",
+    "respuestas_malas": ["Lechuga Azul","Rana con antenas","Pipas","Su raza no come"],
+    "respuesta": "Su raza no come"
   }
 ]
 
