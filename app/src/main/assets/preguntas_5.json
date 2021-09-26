@@ -1,12 +1,29 @@
 [{
-  "pregunta" :"Para muchos, la adaptación en imagen real de Dragon Ball fue un despropósito, aunque contó con algún rostro conocido. ¿Qué actor interpreta Mutenroshi en el filme y el videojuego Dragon Ball Evolution?",
-  "respuestas_malas": ["Jet Lii","Jackie Chan","Pat Moria","Chow Yun Fat"],
-  "respuesta": "Chow Yun Fat"
-},{
-  "pregunta" :"Entre finales de  2018 y principios de 2019, Toei llevó a Broly y otros personajes al canon de Dragon Ball ¿Qué número de largometraje es Dragón Ball Super: Broly?",
-  "respuestas_malas": ["11^ Pelicual".,"20^ Pelicual".,"22^ Pelicual".,"30^ Pelicual"],
-  "respuesta": "20^ Pelicual"
-}
+  "pregunta" :"Cuando los saiyans con cola miran directamente a la Luna se transforman en mono gigante. Ahora bien, también es posible crear una pequeña luna capaz de igualar el efecto ¿Cuantos zenos necesita un saiyan para transformarse en Ozaru?",
+  "respuestas_malas": ["1.700","1.800","9000","17 millones"],
+  "respuesta": "17 millones"
+},
+  {
+    "pregunta" :"¿Cuántos juegos ha desarrollado Ark System Works Basados en Dragón Ball?",
+    "respuestas_malas": ["Kriby","Ninguno","Xenoverse","Super Sonic Warriors"],
+    "respuesta": "Super Sonic Warriors"
+  },{
+  "pregunta" :"Cuando los saiyans con cola miran directamente a la Luna se transforman en mono gigante. Ahora bien, también es posible crear una pequeña luna capaz de igualar el efecto ¿Cuantos zenos necesita un saiyan para transformarse en Ozaru?",
+  "respuestas_malas": ["1.700","1.800","9000","17 millones"],
+  "respuesta": "17 millones"
+},
+  {
+    "pregunta" :"¿Cuántos juegos ha desarrollado Ark System Works Basados en Dragón Ball?",
+    "respuestas_malas": ["Kriby","Ninguno","Xenoverse","Super Sonic Warriors"],
+    "respuesta": "Super Sonic Warriors"
+  },{
+  "pregunta" :"Cuando los saiyans con cola miran directamente a la Luna se transforman en mono gigante. Ahora bien, también es posible crear una pequeña luna capaz de igualar el efecto ¿Cuantos zenos necesita un saiyan para transformarse en Ozaru?",
+  "respuestas_malas": ["1.700","1.800","9000","17 millones"],
+  "respuesta": "17 millones"
+},
+  {
+    "pregunta" :"¿Cuántos juegos ha desarrollado Ark System Works Basados en Dragón Ball?",
+    "respuestas_malas": ["Kriby","Ninguno","Xenoverse","Super Sonic Warriors"],
+    "respuesta": "Super Sonic Warriors"
+  }
 ]
-
-

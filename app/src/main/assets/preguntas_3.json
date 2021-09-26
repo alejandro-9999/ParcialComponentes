@@ -1,25 +1,33 @@
 [{
-  "pregunta" :"Pese a que las aportaciones de Akira Toriyama en Dragon Ball GT fueron escuetas, se dió continuidad a su obra con nuevas aventuras y villanos. ¿Sabrías cuál de estos enemigos no pertenece a Dragon Ball GT",
-  "respuestas_malas": ["DollTaki","Baby Vegeta","Zamasu","Super Androide"],
-  "respuesta": "Zamasu"
-},{
-    "pregunta" :"Dragon Ball Super amplió los horizontes del Dragon World presentando 12 universos colmados de poderosos luchadores y dioses. ¿Cómo se llama el Dios de la destrucción y el Ángel del Universo 6?\n",
-    "respuestas_malas": ["Champa Y DollTaki"," Champa Y Baby Vegeta","Champa Y Zamasu","Champa Y Vados"],
-    "respuesta": "Champa Y Vados"
+  "pregunta" :"Cuando los saiyans con cola miran directamente a la Luna se transforman en mono gigante. Ahora bien, también es posible crear una pequeña luna capaz de igualar el efecto ¿Cuantos zenos necesita un saiyan para transformarse en Ozaru?",
+  "respuestas_malas": ["1.700","1.800","9000","17 millones"],
+  "respuesta": "17 millones"
+},
+  {
+    "pregunta" :"¿Cuántos juegos ha desarrollado Ark System Works Basados en Dragón Ball?",
+    "respuestas_malas": ["Kriby","Ninguno","Xenoverse","Super Sonic Warriors"],
+    "respuesta": "Super Sonic Warriors"
   },{
-  "pregunta" :"Pese a que las aportaciones de Akira Toriyama en Dragon Ball GT fueron escuetas, se dió continuidad a su obra con nuevas aventuras y villanos. ¿Sabrías cuál de estos enemigos no pertenece a Dragon Ball GT",
-  "respuestas_malas": ["DollTaki","Baby Vegeta","Zamasu","Super Androide"],
-  "respuesta": "Champa Y Vados"
-},{
-  "pregunta" :"Dragon Ball Super amplió los horizontes del Dragon World presentando 12 universos colmados de poderosos luchadores y dioses. ¿Cómo se llama el Dios de la destrucción y el Ángel del Universo 6?\n",
-  "respuestas_malas": ["Champa Y DollTaki"," Champa Y Baby Vegeta","Champa Y Zamasu","Champa Y Vados"],
-  "respuesta": "Champa Y Vados"
-},{
-  "pregunta" :"Dragon Ball Super amplió los horizontes del Dragon World presentando 12 universos colmados de poderosos luchadores y dioses. ¿Cómo se llama el Dios de la destrucción y el Ángel del Universo 6?\n",
-  "respuestas_malas": ["Champa Y DollTaki"," Champa Y Baby Vegeta","Champa Y Zamasu","Champa Y Vados"],
-  "respuesta": "Champa Y Vados"
-}
+  "pregunta" :"Cuando los saiyans con cola miran directamente a la Luna se transforman en mono gigante. Ahora bien, también es posible crear una pequeña luna capaz de igualar el efecto ¿Cuantos zenos necesita un saiyan para transformarse en Ozaru?",
+  "respuestas_malas": ["1.700","1.800","9000","17 millones"],
+  "respuesta": "17 millones"
+},
+  {
+    "pregunta" :"¿Cuántos juegos ha desarrollado Ark System Works Basados en Dragón Ball?",
+    "respuestas_malas": ["Kriby","Ninguno","Xenoverse","Super Sonic Warriors"],
+    "respuesta": "Super Sonic Warriors"
+  },{
+  "pregunta" :"Cuando los saiyans con cola miran directamente a la Luna se transforman en mono gigante. Ahora bien, también es posible crear una pequeña luna capaz de igualar el efecto ¿Cuantos zenos necesita un saiyan para transformarse en Ozaru?",
+  "respuestas_malas": ["1.700","1.800","9000","17 millones"],
+  "respuesta": "17 millones"
+},
+  {
+    "pregunta" :"¿Cuántos juegos ha desarrollado Ark System Works Basados en Dragón Ball?",
+    "respuestas_malas": ["Kriby","Ninguno","Xenoverse","Super Sonic Warriors"],
+    "respuesta": "Super Sonic Warriors"
+  }
 ]
+
 
 
 
