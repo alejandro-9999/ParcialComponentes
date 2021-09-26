@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#240046"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/money"
+        android:layout_width="70dp"
+        android:layout_height="22dp"
+        android:text="0"
+        android:textColor="#ff9e00"
+        app:layout_constraintEnd_toStartOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.441"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="229dp"
+        android:layout_height="243dp"
+        android:scaleX="1.7"
+        android:scaleY="1.7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/text_pregunta"
+        android:layout_width="359dp"
+        android:layout_height="164dp"
+        android:text="Pregunta"
+        android:textAlignment="center"
+        android:textColor="#fdc500"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5"
+        app:layout_constraintVertical_bias="0.195" />
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="397dp"
+        android:layout_height="173dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_pregunta"
+        app:layout_constraintVertical_bias="0.378">
+
+        <Button
+            android:id="@+id/pregunta_d"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:backgroundTint="#5a189a"
+            android:backgroundTintMode="src_in"
+            android:elevation="15dp"
+            android:textColor="#ff9e00"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/pregunta_b"
+            tools:text="Pregunta D" />
+
+        <Button
+            android:id="@+id/pregunta_b"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:backgroundTint="#5a189a"
+            android:backgroundTintMode="src_in"
+            android:elevation="15dp"
+            android:textColor="#ff9e00"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Pregunta B" />
+
+        <Button
+            android:id="@+id/pregunta_a"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:backgroundTint="#5a189a"
+            android:backgroundTintMode="src_in"
+            android:elevation="15dp"
+            android:textColor="#ff9e00"
+            android:textSize="12sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Pregunta A" />
+
+        <Button
+            android:id="@+id/pregunta_c"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:backgroundTint="#5a189a"
+            android:backgroundTintMode="src_in"
+            android:elevation="15dp"
+            android:textColor="#ff9e00"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/pregunta_a"
+            app:layout_constraintVertical_bias="0.484"
+            tools:text="Pregunta C" />
+
+    </android.support.constraint.ConstraintLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:text="Nivel"
+        android:textColor="#ff9e00"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/level"
+        android:layout_width="67dp"
+        android:layout_height="18dp"
+        android:text="0"
+        android:textColor="#ff9e00"
+        app:layout_constraintEnd_toStartOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="44dp"
+        android:text="Dinero"
+        android:textColor="#ff9e00"
+        app:layout_constraintEnd_toStartOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.35"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="63dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#ff9e00"
+        android:text="Ok"
+        app:layout_constraintBottom_toTopOf="@+id/text_pregunta"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.372"
+        app:layout_constraintStart_toEndOf="@+id/reset"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="80dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="104dp"
+        android:backgroundTint="#ff9e00"
+        android:text="Reset"
+        app:layout_constraintBottom_toTopOf="@+id/text_pregunta"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5"
+        app:layout_constraintVertical_bias="0.0" />
+</android.support.constraint.ConstraintLayout>

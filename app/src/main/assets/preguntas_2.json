@@ -1,0 +1,28 @@
+[
+  {
+  "pregunta" :"Cuando los saiyans con cola miran directamente a la Luna se transforman en mono gigante. Ahora bien, también es posible crear una pequeña luna capaz de igualar el efecto ¿Cuantos zenos necesita un saiyan para transformarse en Ozaru?",
+  "respuestas_malas": ["1.700","1.800","9000","17 millones"],
+  "respuesta": "17 millones"
+  },
+  {
+    "pregunta" :"¿Cuántos juegos ha desarrollado Ark System Works Basados en Dragón Ball?",
+    "respuestas_malas": ["Kriby","Ninguno","Xenoverse","Super Sonic Warriors"],
+    "respuesta": "Super Sonic Warriors"
+  },
+  {
+    "pregunta" :"¿En qué consiste el método de entrenamiento del Duende Tortuga?",
+    "respuestas_malas": ["Comer Mucho","Estudiar Mucho","Moverse Mucho","Todas"],
+    "respuesta": "Todas"
+  },{
+  "pregunta" :"Según registra el scouter de Vegeta antes de destruirlo ¿Cuál es el nivel de poder de Goku, sin usar el Kaio Ken,  durante su enfrentamiento con Nappa?",
+  "respuestas_malas": ["Mas de 8000","Mas de 9000","Solo 1","300 Julios"],
+  "respuesta": "Mas de 8000"
+  },{
+  "pregunta" :"En el planeta Tierra del Dragon World podemos encontrar animales antropomórficos, dinosaurios, robots, monstruos, seres humanos…. Pero ¿Qué es exactamente Ten Shin Han? ",
+  "respuestas_malas": ["Humano Con 3 ojos","Mutante","Persona Con Pelo","Un Mostruo"],
+  "respuesta": "Humano Con 3 ojos"
+}
+
+]
+
+

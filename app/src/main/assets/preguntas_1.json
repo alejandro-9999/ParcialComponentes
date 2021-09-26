@@ -1,0 +1,25 @@
+[{
+  "pregunta" :"Goku atravesaba mares, valles y montañas en su fiel nube voladora durante sus primeras aventuras. Eso sí, conforme aprendió a volar dejó de necesitarla. Entonces, ¿a quién regaló Goku la nube mágica al final del manga?",
+  "respuestas_malas": ["A Uub, la resurreccion de Buu.","A Pan su nieta.","A Goten su hijo menor.","A Gohan su primogenito."],
+  "respuesta": "A Uub, la resurreccion de Buu."
+},{
+  "pregunta" :"Cuando Goku conoció a Bulma éste le dijo que tenía 14 años, aunque parecía demasiado pequeño para esa edad. ¿Con cuántos años participó en el 21º Torneo de las Artes Marciales?",
+  "respuestas_malas": ["12","19","21","15"],
+  "respuesta": "12"
+},{
+  "pregunta" :"Es bastante frecuente que los saiyans se hagan cicatrices en el cuerpo dado su estilo de vida. De hecho, ¿dónde tiene Goku su cicatriz?",
+  "respuestas_malas": ["En su cabeza","En su pie derecho","En su trasero","En su espalda"],
+  "respuesta": "En su cabeza"
+},{
+  "pregunta" :"Antes de convertirse a sí mismo en un androide, el dr. Guero secuestró a dos jóvenes delincuentes con el objetivo de transformarlos en seres de poder ilimitado. ¿Cómo se llamaban originalmente los Androides A17 y A18?\n",
+  "respuestas_malas": ["Lapiz y Lazuli","Gastor Y Polluz","Bonnie y Clide","Jesus Y Maria"],
+  "respuesta": "Lapiz y Lazuli"
+}
+,{
+  "pregunta" :"En 2008 Toei dió una grata sorpresa a los fans de Dragon Ball con ‘Dragon Ball Z: Goku y sus amigos se reúnen’. Un nuevo especial para TV en el que conocíamos al hermano de Vegeta ¿Cómo se llama ?\n",
+  "respuestas_malas": ["Vegeta es hijo unico","Jose","Roberto","Tarble"],
+  "respuesta": "Tarble"
+}
+]
+
+
